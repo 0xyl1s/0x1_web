@@ -6,7 +6,7 @@ ec1.release                         * may2012
 ec1.3                                ----------->
 ec1.4                                            ----------->
 
-ec2.1                                ----------->
+ec2.1                            ....----------->
 ec2.2                                            ----------->
 ec2.release                                                 * may2014
 ec2.3                                                        ----------->
@@ -14,7 +14,7 @@ ec2.4                                                                    -------
 
 
 development phases:
- 1 > rough specs & technology tests (aka apha)
+ 1 > rough specs & technology tests (aka alpha)
  2 > preparing production code (aka beta)
  3 > security updates, and conservatively adding new features
  4 > only security updates
